@@ -13,11 +13,11 @@ Introducing our Food Delivery web application, a seamless solution for ordering 
 
 - **How to Use**
 
- - Clone this repository to your local machine.
+  - Clone this repository to your local machine.
 
- - Run npm install to install the necessary dependencies.
+  - Run npm install to install the necessary dependencies.
    
- - Start the development server with npm start.
+  - Start the development server with npm start.
    
 Open the app in your web browser and explore our menu, customize your order, and enjoy the convenience of online food ordering.
 https://food-order-app-95346.web.app/
