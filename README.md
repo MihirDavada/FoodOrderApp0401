@@ -2,7 +2,7 @@
 
 Introducing our Food Delivery web application, a seamless solution for ordering your favorite meals with the power of React and Context API for state management, and Firebase for real-time data storage. Enjoy an intuitive user experience as you explore our diverse menu and effortlessly place orders. 
 
-- **Key Features**
+**Key Features**
 
  - **Extensive Menu**: Browse through a wide variety of mouthwatering dishes, from appetizers to desserts, all conveniently categorized for easy selection.
 
@@ -10,7 +10,7 @@ Introducing our Food Delivery web application, a seamless solution for ordering 
 
  - **Adaptive Layout**: The app's layout dynamically adjusts to different screen sizes, including desktops, tablets, and mobile devices. Whether you're using a large monitor or a small smartphone, you can comfortably view and interact with the app.
 
-- **How to Use**
+**How to Use**
 
   - Clone this repository to your local machine.
 
