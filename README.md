@@ -11,7 +11,7 @@ Introducing our Food Delivery web application, a seamless solution for ordering 
  - **Adaptive Layout**: The app's layout dynamically adjusts to different screen sizes, including desktops, tablets, and mobile devices. Whether you're using a large monitor or a small smartphone, you can comfortably view and interact with the app.
 
 
-- How to Use
+- **How to Use**
 
  - Clone this repository to your local machine.
 
